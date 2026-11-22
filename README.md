@@ -1,4 +1,4 @@
-# Mega Mendung — Undangan Pernikahan Digital
+# Template Undangan Digital — Mega Mendung
 
 Template undangan pernikahan digital satu file HTML terinspirasi batik Mega Mendung Cirebon: lapisan awan biru bergradasi, galeri tampil tepat setelah hero.
 
